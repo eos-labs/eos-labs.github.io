@@ -1,0 +1,782 @@
+[{
+		"Version" : "7.00.33781.0",
+		"UpdateIdentifier" : "",
+		"ReleaseDate" : "2012-09-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.34587.0",
+		"UpdateIdentifier" : "01",
+		"ReleaseDate" : "2013-04-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.34688.0",
+		"UpdateIdentifier" : "02",
+		"ReleaseDate" : "2013-05-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.34902.0",
+		"UpdateIdentifier" : "03",
+		"ReleaseDate" : "2013-06-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.35026.0",
+		"UpdateIdentifier" : "04",
+		"ReleaseDate" : "2013-07-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.35201.0",
+		"UpdateIdentifier" : "05",
+		"ReleaseDate" : "2013-08-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.35345.0",
+		"UpdateIdentifier" : "06",
+		"ReleaseDate" : "2013-09-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.35488.0",
+		"UpdateIdentifier" : "07",
+		"ReleaseDate" : "2013-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.35670.0",
+		"UpdateIdentifier" : "08",
+		"ReleaseDate" : "2013-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.35782.0",
+		"UpdateIdentifier" : "09",
+		"ReleaseDate" : "2013-12-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.36005.0",
+		"UpdateIdentifier" : "10",
+		"ReleaseDate" : "2014-01-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.36076.0",
+		"UpdateIdentifier" : "11",
+		"ReleaseDate" : "2014-02-28T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.36207.0",
+		"UpdateIdentifier" : "12",
+		"ReleaseDate" : "2014-03-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.36347.0",
+		"UpdateIdentifier" : "13",
+		"ReleaseDate" : "2014-04-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.36605.0",
+		"UpdateIdentifier" : "14",
+		"ReleaseDate" : "2014-05-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.36919.0",
+		"UpdateIdentifier" : "15",
+		"ReleaseDate" : "2014-06-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.37201.0",
+		"UpdateIdentifier" : "16",
+		"ReleaseDate" : "2014-07-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.37532.0",
+		"UpdateIdentifier" : "17",
+		"ReleaseDate" : "2014-08-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.37798.0",
+		"UpdateIdentifier" : "18",
+		"ReleaseDate" : "2014-09-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.38052.0",
+		"UpdateIdentifier" : "19",
+		"ReleaseDate" : "2014-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.38454.0",
+		"UpdateIdentifier" : "20",
+		"ReleaseDate" : "2014-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.38800.0",
+		"UpdateIdentifier" : "21",
+		"ReleaseDate" : "2014-12-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.39369.0",
+		"UpdateIdentifier" : "22",
+		"ReleaseDate" : "2015-01-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.39671.0",
+		"UpdateIdentifier" : "23",
+		"ReleaseDate" : "2015-02-28T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.40118.0",
+		"UpdateIdentifier" : "24",
+		"ReleaseDate" : "2015-03-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.40468.0",
+		"UpdateIdentifier" : "25",
+		"ReleaseDate" : "2015-04-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.40940.0",
+		"UpdateIdentifier" : "26",
+		"ReleaseDate" : "2015-05-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.41354.0",
+		"UpdateIdentifier" : "27",
+		"ReleaseDate" : "2015-06-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.41767.0",
+		"UpdateIdentifier" : "28",
+		"ReleaseDate" : "2015-07-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.42219.0",
+		"UpdateIdentifier" : "29",
+		"ReleaseDate" : "2015-08-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.42591.0",
+		"UpdateIdentifier" : "30",
+		"ReleaseDate" : "2015-09-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.42948.0",
+		"UpdateIdentifier" : "31",
+		"ReleaseDate" : "2015-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.43390.0",
+		"UpdateIdentifier" : "32",
+		"ReleaseDate" : "2015-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.43894.0",
+		"UpdateIdentifier" : "33",
+		"ReleaseDate" : "2015-12-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.44364.0",
+		"UpdateIdentifier" : "34",
+		"ReleaseDate" : "2016-01-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.44969.0",
+		"UpdateIdentifier" : "35",
+		"ReleaseDate" : "2016-02-29T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.45241.0",
+		"UpdateIdentifier" : "36",
+		"ReleaseDate" : "2016-03-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.45477.0",
+		"UpdateIdentifier" : "37",
+		"ReleaseDate" : "2016-04-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.45787.0",
+		"UpdateIdentifier" : "38",
+		"ReleaseDate" : "2016-05-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.46056.0",
+		"UpdateIdentifier" : "39",
+		"ReleaseDate" : "2016-06-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.46292.0",
+		"UpdateIdentifier" : "40",
+		"ReleaseDate" : "2016-07-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.46576.0",
+		"UpdateIdentifier" : "41",
+		"ReleaseDate" : "2016-08-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.46772.0",
+		"UpdateIdentifier" : "42",
+		"ReleaseDate" : "2016-09-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.47058.0",
+		"UpdateIdentifier" : "43",
+		"ReleaseDate" : "2016-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.47258.0",
+		"UpdateIdentifier" : "44",
+		"ReleaseDate" : "2016-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.00.47432.0",
+		"UpdateIdentifier" : "45",
+		"ReleaseDate" : "2016-12-31T00:00:00+01:00",
+		"ProductId" : 54316
+	}, {
+		"Version" : "7.00.47667.0",
+		"UpdateIdentifier" : "46",
+		"ReleaseDate" : "2017-01-31T00:00:00+01:00",
+		"ProductId" : 54585
+	}, {
+		"Version" : "7.00.47780.0",
+		"UpdateIdentifier" : "47",
+		"ReleaseDate" : "2017-02-28T00:00:00+01:00",
+		"ProductId" : 54702
+	}, {
+		"Version" : "7.00.48066.0",
+		"UpdateIdentifier" : "48",
+		"ReleaseDate" : "2017-03-31T00:00:00+02:00",
+		"ProductId" : 54803
+	}, {
+		"Version" : "7.00.48310.0",
+		"UpdateIdentifier" : "49",
+		"ReleaseDate" : "2017-04-30T00:00:00+02:00",
+		"ProductId" : 55035
+	}, {
+		"Version" : "7.00.48468.0",
+		"UpdateIdentifier" : "50",
+		"ReleaseDate" : "2017-05-31T00:00:00+02:00",
+		"ProductId" : 55178
+	}, {
+		"Version" : "7.10.35473.0",
+		"UpdateIdentifier" : "",
+		"ReleaseDate" : "2013-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.35701.0",
+		"UpdateIdentifier" : "01",
+		"ReleaseDate" : "2013-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.35800.0",
+		"UpdateIdentifier" : "02",
+		"ReleaseDate" : "2013-12-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.36035.0",
+		"UpdateIdentifier" : "03",
+		"ReleaseDate" : "2014-01-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.36078.0",
+		"UpdateIdentifier" : "04",
+		"ReleaseDate" : "2014-02-28T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.36281.0",
+		"UpdateIdentifier" : "05",
+		"ReleaseDate" : "2014-03-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.36366.0",
+		"UpdateIdentifier" : "06",
+		"ReleaseDate" : "2014-04-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.36703.0",
+		"UpdateIdentifier" : "07",
+		"ReleaseDate" : "2014-05-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.36897.0",
+		"UpdateIdentifier" : "08",
+		"ReleaseDate" : "2014-06-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.37221.0",
+		"UpdateIdentifier" : "09",
+		"ReleaseDate" : "2014-07-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.37563.0",
+		"UpdateIdentifier" : "10",
+		"ReleaseDate" : "2014-08-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.37799.0",
+		"UpdateIdentifier" : "11",
+		"ReleaseDate" : "2014-09-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.38053.0",
+		"UpdateIdentifier" : "12",
+		"ReleaseDate" : "2014-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.38455.0",
+		"UpdateIdentifier" : "13",
+		"ReleaseDate" : "2014-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.38801.0",
+		"UpdateIdentifier" : "14",
+		"ReleaseDate" : "2014-12-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.39354.0",
+		"UpdateIdentifier" : "15",
+		"ReleaseDate" : "2015-01-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.39665.0",
+		"UpdateIdentifier" : "16",
+		"ReleaseDate" : "2015-02-28T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.40076.0",
+		"UpdateIdentifier" : "17",
+		"ReleaseDate" : "2015-03-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.40452.0",
+		"UpdateIdentifier" : "18",
+		"ReleaseDate" : "2015-04-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.40941.0",
+		"UpdateIdentifier" : "19",
+		"ReleaseDate" : "2015-05-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.41371.0",
+		"UpdateIdentifier" : "20",
+		"ReleaseDate" : "2015-06-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.41768.0",
+		"UpdateIdentifier" : "21",
+		"ReleaseDate" : "2015-07-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.42221.0",
+		"UpdateIdentifier" : "22",
+		"ReleaseDate" : "2015-08-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.42610.0",
+		"UpdateIdentifier" : "23",
+		"ReleaseDate" : "2015-09-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.42950.0",
+		"UpdateIdentifier" : "24",
+		"ReleaseDate" : "2015-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.43391.0",
+		"UpdateIdentifier" : "25",
+		"ReleaseDate" : "2015-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.43896.0",
+		"UpdateIdentifier" : "26",
+		"ReleaseDate" : "2015-12-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.44366.0",
+		"UpdateIdentifier" : "27",
+		"ReleaseDate" : "2016-01-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.44970.0",
+		"UpdateIdentifier" : "28",
+		"ReleaseDate" : "2016-02-29T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.45254.0",
+		"UpdateIdentifier" : "29",
+		"ReleaseDate" : "2016-03-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.45478.0",
+		"UpdateIdentifier" : "30",
+		"ReleaseDate" : "2016-04-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.45822.0",
+		"UpdateIdentifier" : "31",
+		"ReleaseDate" : "2016-05-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.46057.0",
+		"UpdateIdentifier" : "32",
+		"ReleaseDate" : "2016-06-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.46296.0",
+		"UpdateIdentifier" : "33",
+		"ReleaseDate" : "2016-07-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.46577.0",
+		"UpdateIdentifier" : "34",
+		"ReleaseDate" : "2016-08-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.46774.0",
+		"UpdateIdentifier" : "35",
+		"ReleaseDate" : "2016-09-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.47043.0",
+		"UpdateIdentifier" : "36",
+		"ReleaseDate" : "2016-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.47259.0",
+		"UpdateIdentifier" : "37",
+		"ReleaseDate" : "2016-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "7.10.47442.0",
+		"UpdateIdentifier" : "38",
+		"ReleaseDate" : "2016-12-31T00:00:00+01:00",
+		"ProductId" : 54318
+	}, {
+		"Version" : "7.10.47662.0",
+		"UpdateIdentifier" : "39",
+		"ReleaseDate" : "2017-01-31T00:00:00+01:00",
+		"ProductId" : 54584
+	}, {
+		"Version" : "7.10.47881.0",
+		"UpdateIdentifier" : "40",
+		"ReleaseDate" : "2017-02-28T00:00:00+01:00",
+		"ProductId" : 54698
+	}, {
+		"Version" : "7.10.48068.0",
+		"UpdateIdentifier" : "41",
+		"ReleaseDate" : "2017-03-31T00:00:00+02:00",
+		"ProductId" : 54805
+	}, {
+		"Version" : "7.10.48311.0",
+		"UpdateIdentifier" : "42",
+		"ReleaseDate" : "2017-04-30T00:00:00+02:00",
+		"ProductId" : 55038
+	}, {
+		"Version" : "7.10.48469.0",
+		"UpdateIdentifier" : "43",
+		"ReleaseDate" : "2017-05-31T00:00:00+02:00",
+		"ProductId" : 55182
+	}, {
+		"Version" : "8.00.37874.0",
+		"UpdateIdentifier" : "",
+		"ReleaseDate" : "2014-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.38457.0",
+		"UpdateIdentifier" : "01",
+		"ReleaseDate" : "2014-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.38798.0",
+		"UpdateIdentifier" : "02",
+		"ReleaseDate" : "2014-12-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.39368.0",
+		"UpdateIdentifier" : "03",
+		"ReleaseDate" : "2015-03-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.39663.0",
+		"UpdateIdentifier" : "04",
+		"ReleaseDate" : "2015-02-28T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.40262.0",
+		"UpdateIdentifier" : "05",
+		"ReleaseDate" : "2015-03-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.40459.0",
+		"UpdateIdentifier" : "06",
+		"ReleaseDate" : "2015-04-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.40938.0",
+		"UpdateIdentifier" : "07",
+		"ReleaseDate" : "2015-05-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.41370.0",
+		"UpdateIdentifier" : "08",
+		"ReleaseDate" : "2015-06-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.41779.0",
+		"UpdateIdentifier" : "09",
+		"ReleaseDate" : "2015-07-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.42222.0",
+		"UpdateIdentifier" : "10",
+		"ReleaseDate" : "2015-08-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.42603.0",
+		"UpdateIdentifier" : "11",
+		"ReleaseDate" : "2015-09-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.42951.0",
+		"UpdateIdentifier" : "12",
+		"ReleaseDate" : "2015-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.43389.0",
+		"UpdateIdentifier" : "13",
+		"ReleaseDate" : "2015-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.43887.0",
+		"UpdateIdentifier" : "14",
+		"ReleaseDate" : "2015-12-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.44363.0",
+		"UpdateIdentifier" : "15",
+		"ReleaseDate" : "2016-01-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.44973.0",
+		"UpdateIdentifier" : "16",
+		"ReleaseDate" : "2016-02-29T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.45244.0",
+		"UpdateIdentifier" : "17",
+		"ReleaseDate" : "2016-03-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.45483.0",
+		"UpdateIdentifier" : "18",
+		"ReleaseDate" : "2016-04-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.45813.0",
+		"UpdateIdentifier" : "19",
+		"ReleaseDate" : "2016-05-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.46054.0",
+		"UpdateIdentifier" : "20",
+		"ReleaseDate" : "2016-06-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.46293.0",
+		"UpdateIdentifier" : "21",
+		"ReleaseDate" : "2016-07-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.46580.0",
+		"UpdateIdentifier" : "22",
+		"ReleaseDate" : "2016-08-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.46765.0",
+		"UpdateIdentifier" : "23",
+		"ReleaseDate" : "2016-09-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.47039.0",
+		"UpdateIdentifier" : "24",
+		"ReleaseDate" : "2016-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.47254.0",
+		"UpdateIdentifier" : "25",
+		"ReleaseDate" : "2016-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "8.00.47438.0",
+		"UpdateIdentifier" : "26",
+		"ReleaseDate" : "2016-12-31T00:00:00+01:00",
+		"ProductId" : 54314
+	}, {
+		"Version" : "8.00.47665.0",
+		"UpdateIdentifier" : "27",
+		"ReleaseDate" : "2017-01-31T00:00:00+01:00",
+		"ProductId" : 54586
+	}, {
+		"Version" : "8.00.47871.0",
+		"UpdateIdentifier" : "28",
+		"ReleaseDate" : "2017-02-28T00:00:00+01:00",
+		"ProductId" : 54695
+	}, {
+		"Version" : "8.00.48062.0",
+		"UpdateIdentifier" : "29",
+		"ReleaseDate" : "2017-03-31T00:00:00+02:00",
+		"ProductId" : 54801
+	}, {
+		"Version" : "8.00.48308.0",
+		"UpdateIdentifier" : "30",
+		"ReleaseDate" : "2017-04-30T00:00:00+02:00",
+		"ProductId" : 55036
+	}, {
+		"Version" : "8.00.48467.0",
+		"UpdateIdentifier" : "31",
+		"ReleaseDate" : "2017-05-31T00:00:00+02:00",
+		"ProductId" : 55181
+	}, {
+		"Version" : "9.00.42815.0",
+		"UpdateIdentifier" : "",
+		"ReleaseDate" : "2015-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.43402.0",
+		"UpdateIdentifier" : "01",
+		"ReleaseDate" : "2015-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.43897.0",
+		"UpdateIdentifier" : "02",
+		"ReleaseDate" : "2015-12-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.44365.0",
+		"UpdateIdentifier" : "03",
+		"ReleaseDate" : "2016-01-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.44974.0",
+		"UpdateIdentifier" : "04",
+		"ReleaseDate" : "2016-02-29T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.45243.0",
+		"UpdateIdentifier" : "05",
+		"ReleaseDate" : "2016-03-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.45480.0",
+		"UpdateIdentifier" : "06",
+		"ReleaseDate" : "2016-04-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.45834.0",
+		"UpdateIdentifier" : "07",
+		"ReleaseDate" : "2016-05-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.46045.0",
+		"UpdateIdentifier" : "08",
+		"ReleaseDate" : "2016-06-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.46290.0",
+		"UpdateIdentifier" : "09",
+		"ReleaseDate" : "2016-07-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.46621.0",
+		"UpdateIdentifier" : "10",
+		"ReleaseDate" : "2016-08-31T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.46773.0",
+		"UpdateIdentifier" : "11",
+		"ReleaseDate" : "2016-09-30T00:00:00+02:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.47042.0",
+		"UpdateIdentifier" : "12",
+		"ReleaseDate" : "2016-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.47256.0",
+		"UpdateIdentifier" : "13",
+		"ReleaseDate" : "2016-11-30T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "9.00.47444.0",
+		"UpdateIdentifier" : "14",
+		"ReleaseDate" : "2016-12-31T00:00:00+01:00",
+		"ProductId" : 54319
+	}, {
+		"Version" : "9.00.47671.0",
+		"UpdateIdentifier" : "15",
+		"ReleaseDate" : "2017-01-31T00:00:00+01:00",
+		"ProductId" : 54590
+	}, {
+		"Version" : "9.00.47838.0",
+		"UpdateIdentifier" : "15.1",
+		"ReleaseDate" : "2017-01-31T00:00:00+01:00",
+		"ProductId" : 54682
+	}, {
+		"Version" : "9.00.47864.0",
+		"UpdateIdentifier" : "16",
+		"ReleaseDate" : "2017-02-28T00:00:00+01:00",
+		"ProductId" : 54697
+	}, {
+		"Version" : "9.00.48067.0",
+		"UpdateIdentifier" : "17",
+		"ReleaseDate" : "2017-03-31T00:00:00+02:00",
+		"ProductId" : 54804
+	}, {
+		"Version" : "9.00.48316.0",
+		"UpdateIdentifier" : "18",
+		"ReleaseDate" : "2017-04-30T00:00:00+02:00",
+		"ProductId" : 55034
+	}, {
+		"Version" : "9.00.48466.0",
+		"UpdateIdentifier" : "19",
+		"ReleaseDate" : "2017-05-31T00:00:00+02:00",
+		"ProductId" : 55173
+	}, {
+		"Version" : "10.00.13682.0",
+		"UpdateIdentifier" : "",
+		"ReleaseDate" : "2016-10-31T00:00:00+01:00",
+		"ProductId" : 0
+	}, {
+		"Version" : "10.00.14199.0",
+		"UpdateIdentifier" : "01",
+		"ReleaseDate" : "2016-12-31T00:00:00+01:00",
+		"ProductId" : 54317
+	}, {
+		"Version" : "10.00.14767.0",
+		"UpdateIdentifier" : "02",
+		"ReleaseDate" : "2017-01-31T00:00:00+01:00",
+		"ProductId" : 54609
+	}, {
+		"Version" : "10.00.15052.0",
+		"UpdateIdentifier" : "02.1",
+		"ReleaseDate" : "2017-01-31T00:00:00+01:00",
+		"ProductId" : 54672
+	}, {
+		"Version" : "10.00.15140.0",
+		"UpdateIdentifier" : "03",
+		"ReleaseDate" : "2017-02-28T00:00:00+01:00",
+		"ProductId" : 54696
+	}, {
+		"Version" : "10.00.15601.0",
+		"UpdateIdentifier" : "04",
+		"ReleaseDate" : "2017-03-31T00:00:00+02:00",
+		"ProductId" : 54802
+	}, {
+		"Version" : "10.00.16177.0",
+		"UpdateIdentifier" : "05",
+		"ReleaseDate" : "2017-04-30T00:00:00+02:00",
+		"ProductId" : 55037
+	}, {
+		"Version" : "10.00.16585.0",
+		"UpdateIdentifier" : "06",
+		"ReleaseDate" : "2017-05-31T00:00:00+02:00",
+		"ProductId" : 55180
+	}
+]
